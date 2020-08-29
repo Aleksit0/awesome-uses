@@ -64,6 +64,28 @@ module.exports = [
     ],
   },
   {
+    name: 'Aleksa Maletic',
+    description: 'Full Stack Web Developer, love tech :)',
+    url: 'https://alexacodes.netlify.app/',
+    twitter: '@AleksaMaletic2',
+    emoji: '⚡️',
+    country: '🇷🇸',
+    computer: 'windows',
+    phone: 'android',
+    tags: [
+      'CSS',
+      'SCSS',
+      'HTML',
+      'Node',
+      'JavaScript',
+      'React',
+      'C++',
+      'Python',
+      'Lua',
+      'Design'
+    ],
+  },
+  {
     name: 'Erick Mwamodo',
     description: 'Web Engineer, Designer, All-Round Entrepreneur',
     url: 'https://mwamodo.com/uses',
